@@ -1,0 +1,19 @@
+{
+  "name": "network_graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
+    "websocket": "^1.0.26",
+    "ws": "^6.0.0"
+  }
+}
